@@ -1,0 +1,34 @@
+[
+  {
+    "orderId": "7681029",
+    "shippedDate": "2023-10-01",
+    "totalAmount": 78.00,
+    "status": "Delivered",
+    "image": ["product1.png"],
+    "name": "Bílá košile"
+  },
+  {
+    "orderId": "7681030",
+    "shippedDate": "2023-10-05",
+    "totalAmount": 120.00,
+    "status": "Shipped",
+    "image": ["product5.png"],
+    "name": "Černé kalhoty"
+  },
+  {
+    "orderId": "7681031",
+    "shippedDate": "2023-10-10",
+    "totalAmount": 45.00,
+    "status": "Processing",
+    "image": ["product6.png"],
+    "name": "Zelená mikina"
+  },
+  {
+    "orderId": "7681032",
+    "shippedDate": "2023-10-15",
+    "totalAmount": 200.00,
+    "status": "Pending",
+    "image": ["product7.png"],
+    "name": "Červená bunda"
+  }
+]

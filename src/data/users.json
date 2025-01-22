@@ -1,0 +1,16 @@
+ [
+    {
+      "id": 1,
+      "name": "Jan Novák",
+      "email": "jan.novak@example.com",
+      "password": "heslo123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Petra Dvořáková",
+      "email": "petra.dvorakova@example.com",
+      "password": "heslo456",
+      "role": "user"
+    }
+  ]
